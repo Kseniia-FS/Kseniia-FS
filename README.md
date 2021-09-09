@@ -7,7 +7,7 @@
 ![Kseniia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kseniia-FS&show_icons=true&theme=tokyonight)
 
 If you want to know me as a developer, you can just look throught my repos:sweat_smile:
-But if you want to me me as an employee, just call me for an interview. I'm sure we'll have a great time:star:
+But if you want to me as an employee, just call me for an interview. I'm sure we'll have a great time:star:
 
 
 <!---
