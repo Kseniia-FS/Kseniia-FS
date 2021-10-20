@@ -11,7 +11,7 @@ But if you want to me as an employee, just call me for an interview. I'm sure we
 
 MY STACK
 
-
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
 
 <!---
 Kseniia-FS/Kseniia-FS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
