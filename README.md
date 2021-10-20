@@ -9,9 +9,7 @@
 If you want to know me as a developer, you can just look throught my repos:sweat_smile:
 But if you want to me as an employee, just call me for an interview. I'm sure we'll have a great time:star:
 
-MY STACK
 
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
 
 <!---
 Kseniia-FS/Kseniia-FS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
