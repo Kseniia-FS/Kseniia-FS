@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kseniia-FS
 - 👀 I’m interested in coding and traveling
-- 🌱 I’m currently learning redux
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me kseniia.fs@gmail.com
 
